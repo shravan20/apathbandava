@@ -1,4 +1,3 @@
-// src/components/ServiceList.js
 import React from 'react';
 
 const ServiceList = ({ services }) => {
